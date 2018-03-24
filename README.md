@@ -1,3 +1,4 @@
+https://travis-ci.org/b2017-17viu16m/lab05.svg?branch=master
 https://travis-ci.org/b2017-17viu16m/lab05
 <фрагмент_вставки_значка>
 ## Laboratory work IV
